@@ -1,0 +1,16 @@
+com\usa\misiontic\masterclass3\repository\ToolRepository.class
+com\usa\misiontic\masterclass3\service\ReservasService.class
+com\usa\misiontic\masterclass3\entities\Client.class
+com\usa\misiontic\masterclass3\repository\crudRepository\ReservasCrudRepository.class
+com\usa\misiontic\masterclass3\service\ClientService.class
+com\usa\misiontic\masterclass3\entities\Reservas.class
+com\usa\misiontic\masterclass3\service\ToolService.class
+com\usa\misiontic\masterclass3\MasterClass3Application.class
+com\usa\misiontic\masterclass3\repository\crudRepository\ToolCrudRepository.class
+com\usa\misiontic\masterclass3\controller\ToolController.class
+com\usa\misiontic\masterclass3\repository\crudRepository\ClientCrudRepository.class
+com\usa\misiontic\masterclass3\repository\ReservasRepository.class
+com\usa\misiontic\masterclass3\controller\ReservasController.class
+com\usa\misiontic\masterclass3\entities\Toool.class
+com\usa\misiontic\masterclass3\repository\ClientRepository.class
+com\usa\misiontic\masterclass3\controller\ClientController.class
